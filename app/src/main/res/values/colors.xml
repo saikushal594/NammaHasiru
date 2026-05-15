@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary green palette -->
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_medium">#388E3C</color>
+    <color name="green_light">#81C784</color>
+    <color name="green_pale">#C8E6C9</color>
+
+    <!-- Earth / accent tones -->
+    <color name="earth_brown">#5D4037</color>
+    <color name="earth_tan">#8D6E63</color>
+    <color name="earth_warm">#A5D6A7</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F1F8E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_total">#558B2F</color>
+
+    <!-- Status colors -->
+    <color name="status_alive">#2E7D32</color>
+    <color name="status_dead">#C62828</color>
+
+    <!-- Text colors -->
+    <color name="text_dark">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- System -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder icon shown when no plant photo exists -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/green_medium"
+        android:pathData="M12,22a10,10 0,0 1,-10,-10A10,10 0,0 1,12 2,10 10,0 0,1 22,12 10,10 0,0 1,12 22ZM11,17h2v-6h-2v6ZM11,9h2L13,7h-2v2Z" />
+    <path
+        android:fillColor="@color/green_light"
+        android:pathData="M17,8C8,10 5.9,16.17 3.82,21.34L5.71,22l1,-2.3A4.49,4.49 0,0 0,8 20C19,20 22,3 22,3 16,6 11,11 10,20L8.71,17.5C10.15,14 11,10 17,8Z" />
+</vector>

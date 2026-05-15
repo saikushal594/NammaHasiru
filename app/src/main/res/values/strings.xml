@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NammaHasiru</string>
+    <string name="add_plant">Add New Plant</string>
+    <string name="view_plants">View Plants</string>
+    <string name="dashboard">Survival Dashboard</string>
+    <string name="save_plant">Save Plant</string>
+    <string name="take_photo">Capture Plant Photo</string>
+    <string name="get_location">Auto GPS Fix</string>
+    <string name="pick_location">Manual Pick on Map</string>
+    <string name="confirm_location">Confirm Plant Location</string>
+    <string name="move_pin_hint">Move the map to place the pin precisely</string>
+    <string name="plant_saved">Plant saved successfully!</string>
+    <string name="permission_denied">Permission denied. Please enable in Settings.</string>
+    <string name="channel_name">Plant Growth Reminders</string>
+    <string name="notification_title">NammaHasiru Reminder</string>
+    <string name="notification_text">Time to check your plant growth! It\'s been 90 days.</string>
+    <string name="file_provider_authority">com.example.nammahasiru.fileprovider</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background layer for the foreground icon -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,54m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0" />
+
+    <!-- Styled Leaf Illustration -->
+    <group
+        android:translateX="32"
+        android:translateY="32"
+        android:scaleX="1.8"
+        android:scaleY="1.8">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M17,8C8,10 5.9,16.17 3.82,21.34L5.71,22l1,-2.3A4.49,4.49 0,0 0,8 20C19,20 22,3 22,3 16,6 11,11 10,20L8.71,17.5C10.15,14 11,10 17,8Z" />
+    </group>
+
+    <!-- Sun/Light element to make it look like an "image" -->
+    <path
+        android:fillColor="#FFF176"
+        android:pathData="M85,25m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+
+</vector>
