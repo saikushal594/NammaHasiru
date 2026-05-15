@@ -45,8 +45,6 @@ The app helps users:
 The project aims to convert plantation drives into a long-term sustainability tracking system.
 
 ---
-## 📱 App Screenshots
----
 
 ## 👨‍💻 Developed By
 
